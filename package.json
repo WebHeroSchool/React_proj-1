@@ -1,0 +1,22 @@
+{
+  "name": "react_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo hello",
+    "create": "mkdir build",
+    "delete": "rm -r build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KorzhowVD/React_proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KorzhowVD/React_proj/issues"
+  },
+  "homepage": "https://github.com/KorzhowVD/React_proj#readme"
+}
