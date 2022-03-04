@@ -7,16 +7,19 @@ import styles from './App.module.css';
 const App = () => {
 	const items = [
 		{
-			value: 'Сверсть сайт по макету',
-			id: 1
+			value: 'Сверстать сайт по макету',
+			id: 1, 
+			isDone: true
 		},
 		{
 			value: 'Написать комментарии',
-			id: 2
+			id: 2,
+			isDone: false
 		},
 		{
 			value: 'Уточнить информацию в footer',
-			id: 3
+			id: 3,
+			isDone: true
 		}	
 	];
 
